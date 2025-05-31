@@ -1,4 +1,5 @@
 name: Build Static Site
+
 on:
   push:
     branches: [main]
@@ -12,6 +13,3 @@ permissions:
 jobs:
   build:
     uses: maclong9/web-ui/.github/workflows/build.yml@main
-    with:
-      working-directory: "Application"
-      generate-command: "swift run Application"
