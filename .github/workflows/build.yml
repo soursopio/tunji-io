@@ -1,4 +1,4 @@
-name: WebUI Static Site Build
+name: Tunji.io Static Site Build
 
 on:
   workflow_call:
