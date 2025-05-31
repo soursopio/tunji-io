@@ -1,0 +1,15 @@
+name: Build Static Site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    uses: maclong9/web-ui/.github/workflows/build.yml@main
