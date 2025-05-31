@@ -1,5 +1,5 @@
 ---
-title: Setting Up a New Mac
+title: Setting Up a New Site
 description: This guide outlines the process of configuring a new macOS system.
 published: April 25, 2025
 ---
@@ -36,7 +36,7 @@ cat ~/.ssh/id_ed25519.pub | pbcopy
 
 **macOS Specific Set Up**
 
-* Enabling Touch ID for `sudo` Commands in the Terminal 
+* Enabling Touch ID for `sudo` Commands in the Terminal
 * Installing Xcode Developer Tooling
 
 ```sh
