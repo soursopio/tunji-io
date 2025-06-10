@@ -1,5 +1,5 @@
 ---
-title: My Personal Setup
+title: My Personal Swift Server Setup
 description: This post outlines the tools and software I rely on daily as a software engineer.
 published: April 11, 2025
 ---
@@ -16,7 +16,7 @@ The 14" MacBook Pro with M3 Pro is the cornerstone of my professional setup. It 
 
 ### Vim
 
-Vim is my go-to text editor due to its speed, flexibility, and customization. Its lightweight design boosts efficiency, and since it’s pre-installed on macOS and widely available on servers, I enjoy a consistent editing experience across environments. Recently, I’ve embraced a plugin-free setup to keep things minimal and distraction-free. 
+Vim is my go-to text editor due to its speed, flexibility, and customization. Its lightweight design boosts efficiency, and since it’s pre-installed on macOS and widely available on servers, I enjoy a consistent editing experience across environments. Recently, I’ve embraced a plugin-free setup to keep things minimal and distraction-free.
 
 Check out my configuration [here](https://github.com/maclong9/dots) and an explanation of [how I set up a new system](/articles/how-i-set-up-a-new-mac).
 
