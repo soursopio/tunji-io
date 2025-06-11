@@ -7,8 +7,8 @@ import Foundation
 struct CloudFunctions {
     /// The URL to fetch the scripts from
     static let middlewareURLs = [
-        "_middleware": URL(string: "https://static.maclong.uk/middleware.js")!,
-        "send": URL(string: "https://static.maclong.uk/send.js")!,
+        "_middleware": URL(string: "")!,
+        "send": URL(string: "")!,
     ]
 
     /// Fetches the middleware script from the remote URL and updates the local file

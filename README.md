@@ -1,8 +1,8 @@
-# The Naked Warner
+# The Naked Warner @X
 
 [Live Site](https://maclong.uk)
 
-Personal portfolio static site built with [Swift](https://swift.org) and [WebUI](https://github.com/maclong9/web-ui). 
+Personal portfolio static site built with [Swift](https://swift.org) and [WebUI](https://github.com/maclong9/web-ui).
 
 ## Requirements
 
