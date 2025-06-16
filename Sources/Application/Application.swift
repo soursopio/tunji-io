@@ -38,7 +38,7 @@ struct Application: Website {
 
             // Fetch and Update Cloud Functions
             //await CloudFunctions.fetchAndUpdate()
-            print("✓ Application built successfully.")
+            print("✓ Application built very successfully.")
         } catch {
             print("⨉ Failed to build application: \(error)")
         }
