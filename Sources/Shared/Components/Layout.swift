@@ -40,8 +40,8 @@ public struct Layout: Element {
         BodyWrapper {
             Header(classes: ["backdrop-blur-3xl"]) {
                 Stack {
-                    Link(to: "https://maclong.uk/") {
-                        "Mac Long"
+                    Link(to: "https://tunji.io/") {
+                        "S Tunji Turner"
                     }.styled()
                     if path != nil {
                         Stack { "/" }
@@ -103,7 +103,7 @@ public struct Layout: Element {
             Footer {
                 Text {
                     "© \(Date().formatAsYear()) "
-                    Link(to: "/") { "Mac Long" }.styled(weight: .normal)
+                    Link(to: "/") { "S Tunji Turner" }.styled(weight: .normal)
                 }
             }
             .font(size: .sm, color: .zinc(._600, opacity: 0.9), family: "system-ui")

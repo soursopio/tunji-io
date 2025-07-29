@@ -12,7 +12,7 @@ struct Home: Document {
 
     var body: some HTML {
         Layout(
-            title: "Software Engineer, Skater & Musician",
+            title: "Superhero, maker, UX developer, designer, urban explorer, all about audacious liberation.",
             description:
                 "I'm Mac, a software engineer based out of the United Kingdom. I enjoy building forward thinking and efficient solutions. Read some of my articles below."
         ) {

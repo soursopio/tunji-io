@@ -1,5 +1,5 @@
 ---
-title: Setting Up a New Site Again Again
+title: Setting Up a New Mac
 description: This guide outlines the process of configuring a new macOS system.
 published: April 25, 2025
 ---
